@@ -19,7 +19,7 @@ The code was developed as part of research involving resonator-based dielectric 
 
 ```text
 .
-├── main_pso_cst_optimization.m
+├── RF_resonator_PSO_algorithm.m
 ├── cost_function_resonator.m
 │
 └── post_processing/
